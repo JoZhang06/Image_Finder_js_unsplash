@@ -1,0 +1,23 @@
+body {
+    overflow-x: hidden;
+    background: linear-gradient(90deg, #121212, #262626, #363637);
+    color: #fff;
+}
+
+.navbar {
+   color: #fff;
+}
+
+.navbar-brand, .navbar-toggler-icon {
+    color: #fff;
+}
+
+.navbar-toggler {
+    border-color: #fff;
+}
+
+.navbar-toggler:focus, .navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+}
+ 
